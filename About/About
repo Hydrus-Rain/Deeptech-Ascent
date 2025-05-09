@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Deeptech Ascent</name>
+  <authors>
+    <li>Hydroabyssal/Hydraeus</li>
+  </authors>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>Hydroabbysal.DeeptechAscent</packageId>
+  <description>
+    Mechanical race
+  </description>
+  <incompatibleWith>
+    <li>CETeam.CombatExtended</li>
+  </incompatibleWith>
+</ModMetaData>
